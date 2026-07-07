@@ -1,0 +1,28 @@
+#include <stdio.h>
+int main() {
+     printf("I like to eat briyani\n");
+     printf("It is tasty to eat\n");
+     printf("I eat briyani in every sunday\n");
+     printf("My favorit sports is criket\n");
+     printf("I am watching IPL every day\n");
+     printf("My favorite Criketer is Dhoni\n");
+     printf("I like see match of patherana\n");
+     printf("I like to listen music\n");
+     printf("They is lost of album songs in my mobile\n");
+     printf("I like to do program\n");
+     printf("do not waste the time by watching TV\t");
+     printf("I am interested to do craft work\n");
+     printf("Every sunday i go to market\n");
+     printf("There is limited amount for me\n");
+     printf("I save my money in pigy bank\n");
+     printf("I like to do cooking\n");
+     printf("But I don't know to cook\n");
+     printf("I can do any thing in my own wish\n");
+     printf("Every one in my home like to watch movie\n");
+     printf("I am watching instagram regularly\n");
+     printf("I want to read books\n");
+     printf("It will give more power to brain\n");
+     printf("They are lots of book in my home\n");
+     printf("I want to read each book in a single day\n");
+    return 0;
+}
